@@ -12,7 +12,7 @@ function App() {
   };
 
   const lineData = {
-    labels: ['Janvier', 'Fevrier', 'Mars', 'Avril', 'Mai', 'Juin', 'Juillet'],
+    labels: ['January', 'February', 'March', 'April', 'May', 'June', 'July'],
     values: [65, 59, 80, 81, 56, 55, 40],
   };
 
