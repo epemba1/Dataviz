@@ -17,7 +17,7 @@ function App() {
   };
 
   const pieData = {
-    labels: ['Red', 'Blue', 'Jaune', 'Vert'],
+    labels: ['Red', 'Blue', 'Yellow', 'Green'],
     values: [12, 19, 3, 5],
   };
 
