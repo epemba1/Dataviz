@@ -22,7 +22,7 @@ function App() {
   };
 
   const radarData = { 
-    labels: ['Eat', 'Drink', 'Sleep', 'Concevoir', 'Coder', 'Faire du vélo', 'Courir'],
+    labels: ['Eat', 'Drink', 'Sleep', 'Design', 'Code', 'Bike riding', 'Running'],
     values: [65, 59, 90, 81, 56, 55, 40],
   };
 
