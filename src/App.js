@@ -41,7 +41,7 @@ function App() {
             <PieChart data={pieData} />
           </div>
           <div className="chart-item">
-            <RadarChart data={radarData} /> {/* Use RadarChart component */}
+            <RadarChart data={radarData} />
           </div>
         </div>
       </header>
