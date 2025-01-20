@@ -29,7 +29,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Medl'In Dataviz</h1>
+        <h1>Data visualization</h1>
         <div className="chart-container">
           <div className="chart-item">
             <BarChart data={barData} />
