@@ -20,7 +20,7 @@ const BarChart = ({ data }) => {
           {
             label: 'bleu',
             data: data.values,
-            backgroundColor: 'rgba(54, 162, 235, 0.2)', // Change background color
+            backgroundColor: 'rgba(54, 162, 235, 0.2)', 
             borderColor: 'rgba(54, 162, 235, 1)', // Change border color
             borderWidth: 1,
           },
