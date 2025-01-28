@@ -40,7 +40,7 @@ const BarChart = ({ data }) => {
     };
   }, [data]);
 
-  return <canvas ref={chartRef} style={{ backgroundColor: 'white' }} />; // Change background color
+  return <canvas ref={chartRef} style={{ backgroundColor: 'white' }} />; 
 };
 
 export default BarChart;
